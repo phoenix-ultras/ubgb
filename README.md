@@ -26,10 +26,9 @@ A multi-functional banking app built to streamline internal operations and impro
 
  **Tech Stack:**
   * Frontend: Flutter (Dart)
-
   * Backend: Firebase (Auth, Firestore, Cloud Storage)
-
   * APIs: Google Maps API
+  * Provider:State management
 
 
 
